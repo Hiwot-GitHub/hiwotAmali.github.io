@@ -36,7 +36,7 @@ h4{
     display: flex;
     width: 460px;
     height: 60px;
-    align-items: flex-start;
+    align-items: flex-end;
     margin: 0 auto;
     font-size: 2rem;
     letter-spacing: 0.2rem;
